@@ -1,5 +1,9 @@
 # Java-FX-Paint-Canvas
-This is a JavaFX program that mimics the functionalities of Microsoft Paint. It allows users to draw different shapes, lines, and freehand drawings on a canvas. The program implements polymorphism to create different types of shapes such as circles and squares. Additionally, it incorporates error handling to ensure the smooth running of the application without any crashes. The code is also organized and reusable, making it easy to maintain and expand the project in the future.
+I have developed a JavaFX Paint Canvas project that mimics the functionalities of Microsoft Paint. The project includes a GUI that allows users to draw different shapes, lines, and freehand drawings on a canvas. The program implements polymorphism to create different types of shapes such as circles and squares. In addition, association and inheritance have been used to create more organized and reusable code, making it easier to maintain and expand the project in the future.
+
+To ensure a smooth user experience, I have also incorporated error handling throughout the program. This includes handling null and invalid input, as well as preventing crashes and exceptions. These error handling techniques make the application more robust and user-friendly.
+
+Overall, the project showcases my skills in Java programming, GUI design, and software development, including the use of object-oriented principles such as polymorphism, association, and inheritance, as well as best practices for error handling.
 
 **Features**
 
