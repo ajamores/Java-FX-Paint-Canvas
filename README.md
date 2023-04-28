@@ -10,16 +10,15 @@ Implemented association and inheritance to make the code more organized and reus
 
 **Installation**
 
-To use this program, you need to have Java and JavaFX installed on your computer.
-
-Download or clone the repository.
-Open the project in an IDE such as IntelliJ IDEA or Eclipse.
-Run the program.
+*To use this program, you need to have Java and JavaFX installed on your computer.
+*Download or clone the repository.
+*Open the project in an IDE such as IntelliJ IDEA or Eclipse.
+*Run the program.
 
 **Usage**
 
-To draw a shape, select the desired shape from the toolbar on the left side of the screen.
-The shape, size, and color at a minimum must be provided to draw.
-To draw the shape, click and drag the mouse on the canvas
-To change the color and size of the shape, use the color and size options on the toolbar.
+*To draw a shape, select the desired shape from the toolbar on the left side of the screen.
+*The shape, size, and color at a minimum must be provided to draw.
+*To draw the shape, click and drag the mouse on the canvas
+**To change the color and size of the shape, use the color and size options on the toolbar.
 To erase a shape, select the eraser tool.
