@@ -27,4 +27,4 @@ To draw the shape, click and drag the mouse on the canvas
 To change the color and size of the shape, use the color and size options on the toolbar.
 To erase a shape, select the eraser tool.
 
-!(image)[https://i.imgur.com/n3iGnMw.png]
+![image](https://i.imgur.com/n3iGnMw.png)
