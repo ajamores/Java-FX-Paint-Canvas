@@ -29,5 +29,5 @@ To erase a shape, select the eraser tool.
 
 **Video**
 
-![image](https://i.imgur.com/FgEGViO.gif)
+![image](https://i.imgur.com/Z6RSPoJ.gif)
 
